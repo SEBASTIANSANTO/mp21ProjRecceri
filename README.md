@@ -15,7 +15,7 @@ We thank...
 
 I. Introduction:
 
-II. Experimentation
+II. Experimentation:
 
 References:
 R. H. Arpaci-Dusseau and A. C. Arpaci-Dusseau, "Operating Systems: Three Easy Pieces,"University of Winconsin-Madison, ch. 37, 2014. Available: https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf
@@ -27,3 +27,4 @@ B. Schroeder, R. Lagisetty and A. Merchant, “Flash Reliability in Production: 
 N. Ekker, T. Coughlin and J. Handy, “Solid State Storage 101: An Introduction to Solid State Storage,” Storage Networking Industry Association, January 2009. Available: https://www.snia.org/sites/default/files/SSSI/SSSI%20Wht%20Paper%20Final%20101.pdf
 [Accessed March 25, 2021]
 
+Appendix:
