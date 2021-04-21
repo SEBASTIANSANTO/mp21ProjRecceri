@@ -21,12 +21,19 @@ N. Ekker, T. Coughlin and J. Handy, “Solid State Storage 101: An Introduction 
 
 # Table of Contents
 I.	Introduction
+
 II.	Discussion
-  A. Hard Disk Drive
+
+	A. Hard Disk Drive	
 	B. Solid State Drive
+	
 III.	Comparison
+
 	A. Performance
 	B. Capacity
 	C. Reliability
+	
 IV.	Conclusion
+
 V.	References
+	
