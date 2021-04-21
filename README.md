@@ -1,7 +1,9 @@
 # mp21ProjRecceri
 
 # Members:
+
 SANTOS - Team Lead
+
 ACULA  - Rappoteur
 
 # Research Title: Comparative Study between SSD and HDD 
