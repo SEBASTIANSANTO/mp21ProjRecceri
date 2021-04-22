@@ -26,8 +26,16 @@ I.	Introduction
 
 II.	Discussion
 
-	A. Hard Disk Drive	
+	A. Hard Disk Drive
+		-Parts
+		-How memory is accessed
+		-Speed
+		-Capacity
 	B. Solid State Drive
+		-Parts
+		-How memory is accessed
+		-Speed
+		-Capacity
 	
 III.	Comparison
 
