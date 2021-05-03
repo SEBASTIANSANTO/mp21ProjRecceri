@@ -1,0 +1,11 @@
+I. DONE list
+	Table of Contents
+	Discussion of SSD
+	Discussion of HDD
+
+II. TODO list
+	Documentation
+	Comparison
+	Conclusion
+	Reference List
+	Powerpoint
