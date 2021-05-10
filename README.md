@@ -53,3 +53,6 @@ IV.	Conclusion
 
 V.	References
 	
+# Presentation
+RecceriPresentation_Part1, https://youtu.be/cp4KQT_D5M8
+RecceriPresentation_Part2, https://youtu.be/cUGBRD2rT6Q
